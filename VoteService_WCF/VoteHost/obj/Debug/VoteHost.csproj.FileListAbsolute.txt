@@ -1,0 +1,12 @@
+C:\Users\Artem\Desktop\VoteService_WCF\VoteHost\bin\Debug\VoteHost.exe.config
+C:\Users\Artem\Desktop\VoteService_WCF\VoteHost\bin\Debug\VoteHost.exe
+C:\Users\Artem\Desktop\VoteService_WCF\VoteHost\bin\Debug\VoteHost.pdb
+C:\Users\Artem\Desktop\VoteService_WCF\VoteHost\bin\Debug\VoteService_WCF.dll
+C:\Users\Artem\Desktop\VoteService_WCF\VoteHost\bin\Debug\VoteService_WCF.pdb
+C:\Users\Artem\Desktop\VoteService_WCF\VoteHost\bin\Debug\VoteService_WCF.dll.config
+C:\Users\Artem\Desktop\VoteService_WCF\VoteHost\obj\Debug\VoteHost.csproj.AssemblyReference.cache
+C:\Users\Artem\Desktop\VoteService_WCF\VoteHost\obj\Debug\VoteHost.csproj.SuggestedBindingRedirects.cache
+C:\Users\Artem\Desktop\VoteService_WCF\VoteHost\obj\Debug\VoteHost.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Desktop\VoteService_WCF\VoteHost\obj\Debug\VoteHost.csproj.CopyComplete
+C:\Users\Artem\Desktop\VoteService_WCF\VoteHost\obj\Debug\VoteHost.exe
+C:\Users\Artem\Desktop\VoteService_WCF\VoteHost\obj\Debug\VoteHost.pdb
